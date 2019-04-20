@@ -1,0 +1,7 @@
+C:\Users\prince\source\repos\UET\UET\bin\Debug\UET.exe.config
+C:\Users\prince\source\repos\UET\UET\bin\Debug\UET.exe
+C:\Users\prince\source\repos\UET\UET\bin\Debug\UET.pdb
+C:\Users\prince\source\repos\UET\UET\obj\Debug\UET.csproj.CoreCompileInputs.cache
+C:\Users\prince\source\repos\UET\UET\obj\Debug\UET.exe
+C:\Users\prince\source\repos\UET\UET\obj\Debug\UET.pdb
+C:\Users\prince\source\repos\UET\UET\obj\Debug\UET.csprojAssemblyReference.cache
